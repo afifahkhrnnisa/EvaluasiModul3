@@ -82,7 +82,8 @@ public class MainActivity extends AppCompatActivity {
             return "Sistem Informasi";
         }
         else {
-            return "";}
+            return "";
+        }
     }
 
     private String getMinat() {
